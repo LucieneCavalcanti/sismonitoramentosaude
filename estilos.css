@@ -1,0 +1,17 @@
+body {
+    background-color: darkseagreen;
+    color: darkgreen;
+    margin: 100px 100px 100px 100px;
+}
+#links{
+    border: solid blue 2px;
+    padding: 10px 10px 10px 10px;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 16px;
+}
+table, td, tr, th{
+    border: solid green 2px;
+    border-collapse: collapse;
+}
